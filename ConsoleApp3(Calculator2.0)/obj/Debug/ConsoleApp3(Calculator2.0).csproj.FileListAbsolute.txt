@@ -1,0 +1,8 @@
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\bin\Debug\ConsoleApp3(Calculator2.0).exe.config
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\bin\Debug\ConsoleApp3(Calculator2.0).exe
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\bin\Debug\ConsoleApp3(Calculator2.0).pdb
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\obj\Debug\ConsoleApp3(Calculator2.0).csproj.AssemblyReference.cache
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\obj\Debug\ConsoleApp3(Calculator2.0).csproj.SuggestedBindingRedirects.cache
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\obj\Debug\ConsoleApp3(Calculator2.0).csproj.CoreCompileInputs.cache
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\obj\Debug\ConsoleApp3(Calculator2.0).exe
+C:\Users\By200\source\repos\ConsoleApp3(Calculator2.0)\ConsoleApp3(Calculator2.0)\obj\Debug\ConsoleApp3(Calculator2.0).pdb
